@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'litso.io'
+tagline:             'Programming Musings'
+description:         'I make software for iPhone and AppleTV'
+url:                 http://litso.github.io
+paginate:            5
+
+# About/contact
+author:
+  name:              Robert Manson
+  url:               https://twitter.com/litso
+  email:             robmanson@gmail.com
+
+# Custom vars
+version:             1.0.0
